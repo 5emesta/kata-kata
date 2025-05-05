@@ -11,13 +11,33 @@ tombolPesan = "Kirim Pesan";
 
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
+    gambar: "1.jpeg",
+    ucapan: "Hallooo, aku A**** R**** disini aku cuma mau bilang sesuatuu",
+  },
+  {
+    gambar: "2.jpeg",
+    ucapan: "mukamu begitu cantik secantik bunga bunga di taman",
+  },
+  {
+    gambar: "3.jpeg",
+    ucapan: "matamu begitu indah dan senyuman mu begitu menawan bagaikan planet Saturnus dengan cincinnya",
+  },
+  {
+    gambar: "4.jpeg",
+    ucapan: "kamu bagikan matahariku, yang selalu menyinari hidupku yang gelap dan penuh keputusaan",
+  },
+  {
+    gambar: "5.jpeg",
+    ucapan: "dan kamu bagaikan malam, yang selalu membuat diriku merasa tenang",
+  },
+  {
+    gambar: "6.jpeg",
+    ucapan: "terimakasih sudah membaca pesan ku tadii, maaf yaa kalo ada kata kata yang menyakiti hati kamuu, aku ijin pamit dan terima gaji",
   },
 ];
 
-musik = "musik.mp3";
-noWhatsapp = "6281xxx";
+musik = "sound1.mp3";
+noWhatsapp = "628819073953";
 
 /*=========================*/
 </script><script>DekaTutorial(konten, musik, noWhatsapp, teksOpen, tombolPesan);</script></body></html>
